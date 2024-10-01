@@ -14,14 +14,14 @@ global.confirmCode = ''
 
 //• ↳𝑺𝑶𝑳𝑶 𝑫𝑬𝑺𝑨𝑹𝑹𝑶𝑳𝑳𝑨𝑫𝑶𝑹𝑬𝑺 𝑨𝑷𝑹𝑶𝑩𝑨𝑫𝑶𝑺
 global.owner = [
-  ['59168683798', '✎ 𝐀𝐧𝐠𝐞𝐥𝐢𝐭𝐨 𝐎𝐅𝐂', true],
-  ['50242073893', '✎ 𝐉𝐨𝐬𝐭𝐢𝐧 𝐩𝐢𝐭𝐨 𝐜𝐨𝐫𝐭𝐨', true],
-  ['56983298345', '✎ 𝐌𝐱𝐳', true],
-  [''],
-  [''],
-  [''],
-  [''],
-  ['']]
+  ['59168683798', '✎ sharit , true],
+  ['50242073893', '✎ sharit , true],
+  ['56983298345', '✎ sharit', true],
+  ['56983945918'],
+  ['56983945918'],
+  ['56983945918'],
+  ['56983945918'],
+  ['56983945918']]
 
 //• ↳𝑺𝑶𝑳𝑶 𝑴𝑶𝑫𝑬𝑹𝑨𝑫𝑶𝑹𝑬𝑺!
 global.mods = ['59168683798']
@@ -31,14 +31,14 @@ global.prems = []
 global.isBaileysFail = false
 
 //• ↳ ◜𝑴𝑨𝑹𝑪𝑨𝑺 𝑫𝑬 𝑨𝑮𝑼𝑨◞ • 💌
-global.packname = '𝗚𝗲𝗻𝗲𝘀𝗶𝘀𝗕𝗼𝘁-𝗠𝗗'
+global.packname = 'mamasota-𝗠𝗗'
 global.author = '@usxr_angelito0'
-global.wm = '𝗚𝗲𝗻𝗲𝘀𝗶𝘀 𝗜𝗔'
-global.titulowm = 'GenesisBot-Pro 🤍'
+global.wm = 'mamasota 𝗜𝗔'
+global.titulowm = 'mamasota-Pro 🤍'
 global.titulowm2 = 'ɢᴇɴᴇꜱɪꜱʙᴏᴛ-ᴍᴅ 🤍'
-global.igfg = '@usxr_angelito0'
-global.botname = '𝗚𝗲𝗻𝗲𝘀𝗶𝘀𝗕𝗼𝘁 🤍'
-global.dev = '`𝗚𝗲𝗻𝗲𝘀𝗶𝘀𝗕𝗼𝘁 🤍`\n*By • Titanium Team 💥*'
+global.igfg = '@chocoloversita'
+global.botname = 'mamasota 🤍'
+global.dev = '`mamasota 🤍`\n*By • Titanium Team 💥*'
 global.titu = '*[ BY: Genesis x Angel-OFC ]*'
 global.textbot = 'ɢᴇɴᴇꜱɪꜱʙᴏᴛ x ᴀɴɢᴇʟ-ᴏꜰᴄ 🤍'
 global.vs = '1.5.1'
